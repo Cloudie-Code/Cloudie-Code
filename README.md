@@ -8,7 +8,7 @@
 </div>
 <h1></h1>
 
-- Microsoft SQL Server (Database & Stored Procedure design);
+- Microsoft SQL Server, MariaDB, MySQL, Firebird;
 - C++ 14+;
 - C# 6+;
 - PHP 7+;
