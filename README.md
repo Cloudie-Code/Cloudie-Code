@@ -7,12 +7,6 @@
   <a href='https://ko-fi.com/Y8Y31LG9HA' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <h1></h1>
-<div align="center">
-  <h3>💻 My Competences</h3>
-  <h6>Mostly Autodidact c;</h6>
-</div>
-
-##
 
 - Microsoft SQL Server (Database & Stored Procedure design);
 - C++ 14+;
